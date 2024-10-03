@@ -1,0 +1,11 @@
+# Ignore all ".tfstate" files in any subdirectory
+**/*.tfstate
+
+# Ignore all ".tfstate.backup" files in any subdirectory
+**/*.tfstate.backup
+
+# Ignore "dovekey" files in any directory
+**/dovekey
+
+# Ignore "dovekey.pub" files in any directory
+**/dovekey.pub
